@@ -1,0 +1,71 @@
+.form-center {
+  display: flex;
+  justify-content: center;
+  width: 0px;
+  margin: 0 auto;
+
+}
+body {
+  background-color: white
+    ; }
+
+h1 {
+  color: black;
+  font-family: "Trirong", serif;
+  font-size: 40px;
+  text-align: center;
+  padding: 10px;
+}
+form, label {
+  text-align: center;
+  font-family: arial;
+  font-size: 19px;
+  font-style: normal;
+  color: black;
+}
+
+input[type=email] {
+    width: 200px;
+    font-size: 15px;
+    text-align: center;
+    background: transparent;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: black;
+}
+
+input[type=tel] {
+    width: 180px;
+    font-size: 15px;
+    text-align: center;
+    background: transparent;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: black;
+}
+
+//*.container {
+        padding: 50px;
+        background-color: #9FDF77 ;
+    }*//
+
+button {
+  height: 30px;
+  background: orange;
+  border: none;
+  color: white;
+  font-size: 15px;
+  font-family: 'Nanum Gothic';
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  border: 2px solid black;
+}
+
+p1 {
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    text-align: center;
+  }
