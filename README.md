@@ -1,7 +1,4 @@
 # Authentication
-Class Assignment- 1914782
-Start apache and mySQL at xampp.
-all files should be placed in one folder. 
-open localhost/authentication/signin.php 
-index.php where it connected to database. 
-loginstyle is css file. 
+- login.php: user to keyin their email and password. 
+- student_details.php: where session management starts once the user click on login button. 
+- logout.php: Session management end
